@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#06F}
+#titulo
+{background:#3CF;;color:#C0C}
+#pie
+{background:#6FC;color:#F06}
+#Introduccion
+{color:#fff; size:9; text-align:justify; background:#96CFE0; margin:1%}
+#ballas
+{color:#60F; size:12; text-align:justify; background:#0FF; margin:1%}
+#citricos
+{color:#178EA4; size:12; text-align:justify; background:#A9DEDD; margin:1%}
+#cucu
+{color:#1ACDA9; size:12; text-align:justify; background:#EFE7B1; margin:1%}
+#exoticos
+{color:#1200FD; size:12; text-align:justify; background:rgba(180,228,190,1.00); margin:1%}
+#dulce
+{color:#6304FC; size:12; text-align:justify; background:#CBC0C0; margin:1%}
+#cecos
+{color:#DDDCDC; size:12; text-align:justify; background:#691819; margin:1%}
